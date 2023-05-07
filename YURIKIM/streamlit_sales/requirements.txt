@@ -29,7 +29,7 @@ markdown-it-py==2.2.0
 MarkupSafe==2.1.2
 matplotlib==3.7.1
 mdurl==0.1.2
-numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f9f5xs2fx0/croot/numpy_and_numpy_base_1682520577456/work
+numpy==1.20.3
 optuna==3.1.1
 packaging==23.1
 pandas==1.5.3
