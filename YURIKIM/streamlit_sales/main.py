@@ -7,7 +7,7 @@ import plotly.express as px
 
 import os
 import sys
-sys.path.append(os.getcwd())
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 import conf
 from page_layout.page1_eda import page1
